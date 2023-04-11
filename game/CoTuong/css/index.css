@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#undo{
+    width: 80px;
+    text-align: center;
+    color: #fff;
+    border: 1px solid #adb6af;
+    background-color: #7e9aaf;
+    cursor: pointer;
+}
